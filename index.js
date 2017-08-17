@@ -31,8 +31,9 @@ console.log('START ' + LastSync());
 setInterval(Log, 500, LastSync);
 setInterval(Log, 1000, "Sync sync");
 
+/*
 while(true) {
-  setTimeout(Log, 1000, "Timeout " + LastSync());  
+  setTimeout(Log, 1000, "Timeout " + LastSync());
 }
-
+*/
 console.log('END ');
