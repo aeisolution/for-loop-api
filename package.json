@@ -1,0 +1,28 @@
+{
+  "name": "for-loop-api",
+  "version": "1.0.0",
+  "description": "Learn how to manage concurrent api call in for loop or other cicle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeisolution/for-loop-api.git"
+  },
+  "keywords": [
+    "learn",
+    "concurrent",
+    "api",
+    "calls",
+    "loops",
+    "time",
+    "timers"
+  ],
+  "author": "aeisolution <info@aeisolution.it> (=)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aeisolution/for-loop-api/issues"
+  },
+  "homepage": "https://github.com/aeisolution/for-loop-api#readme"
+}
